@@ -1,4 +1,6 @@
 body{
   background: rgb(23,201,247);
 background: linear-gradient(180deg, rgba(23,201,247,1) 0%, rgba(0,35,255,0.9389005602240896) 98%);
+background-repeat:no-repeat;
+min-height: 150vh;
 }
